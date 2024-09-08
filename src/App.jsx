@@ -1,4 +1,4 @@
-import Navbar from "./Component/Navbar.Jsx"
+import Navbar from "./Component/Navbar.jsx"
 import Newsboard from "./Component/Newsboard.jsx"
 import NewsItem from "./Component/NewsItem.jsx"
 

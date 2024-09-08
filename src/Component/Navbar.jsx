@@ -1,7 +1,7 @@
 
 const Navbar = ({setCategory}) => {
   return (
-    <>
+    
     <nav className="navbar navbar-expand-lg bg-body-tertiary"data-bs-theme="dark">
         <div className="container-fluid">
         <a className="navbar-brand" href="#"><span className="badge text-bg-dark"> Samacharam Today</span></a>
@@ -37,7 +37,7 @@ const Navbar = ({setCategory}) => {
     </div>
   </div>
 </nav>
-</>
+
   )
 }
 
